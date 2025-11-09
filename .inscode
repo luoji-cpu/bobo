@@ -1,4 +1,4 @@
-run = "love_popup_web.html"
-is_html = true
-is_resident = false
+run = "index.html"
 is_gui = false
+is_resident = false
+is_html = true
