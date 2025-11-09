@@ -1,0 +1,4 @@
+run = "love_popup_web.html"
+is_html = true
+is_resident = false
+is_gui = false
